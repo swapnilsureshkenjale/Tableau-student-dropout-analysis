@@ -40,5 +40,7 @@ The workbook is built with a uniform, executive layout featuring intuitive struc
 
 ---
 ## 🔗 Live Dashboard Link
-- <a href="https://public.tableau.com/app/profile/swapnil.kenjale/viz/Project1_17792923864410/StudentSupportandFinancialFactorsDashboard">Dashboard</a>
+- <a href="https://public.tableau.com/app/profile/swapnil.kenjale/viz/Project1_17792923864410/Semester1StudentPerformanceDashboard?publish=yes">Semester 1 Student Performance Dashboard</a>
+- <a href="https://public.tableau.com/app/profile/swapnil.kenjale/viz/Project1_17792923864410/Semester2StudentPerformanceDashboard?publish=yes">Semester 2 Student Performance Dashboard</a>
+- <a href="https://public.tableau.com/app/profile/swapnil.kenjale/viz/Project1_17792923864410/StudentSupportandFinancialFactorsDashboard">Student Support and Financial Factors Dashboard</a>
 ---
