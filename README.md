@@ -39,3 +39,6 @@ The workbook is built with a uniform, executive layout featuring intuitive struc
 * **Comparative Visuals:** Dual-axis bar charts and horizontal distribution blocks tracking academic metrics and grade point averages (GPAs) simultaneously.
 
 ---
+## 🔗 Live Dashboard Link
+- <a href="https://public.tableau.com/app/profile/swapnil.kenjale/viz/Project1_17792923864410/StudentSupportandFinancialFactorsDashboard">Dashboard</a>
+---
